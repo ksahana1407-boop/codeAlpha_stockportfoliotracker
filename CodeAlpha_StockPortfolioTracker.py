@@ -22,7 +22,7 @@ while True:
         investment = stock_prices[stock] * quantity
         print(f"{stock} investment = {stock_prices[stock]} × {quantity} = ₹{investment}")
 
-        total_investment = total_investment + investment
+        total_investment += investment
     else:
         print("Stock not found! Please try again.")
 
