@@ -1,8 +1,4 @@
-Stock-Portfolio-Tracker
-python-stock-portfolio-tracker
-codeAlpha_pythonproject_1
 # Stock Portfolio Tracker
-
 stock_prices = {
     "AAPL": 180,
     "TSLA": 250,
